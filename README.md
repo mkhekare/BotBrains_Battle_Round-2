@@ -45,4 +45,5 @@ This repository explores the key aspects of designing, enhancing, and programmin
 - LiDAR Technology for Autonomous Vehicles. (2020). ResearchGate.
 - Programming a Two-Wheeled Self-Balancing Robot for Parcel Delivery and Navigation. (2020). ResearchGate.
 - Autonomous Navigation for Two-Wheeled Self-Balancing Robots. (2020). ResearchGate.
+- Code CoPilot by OpenAI
 
